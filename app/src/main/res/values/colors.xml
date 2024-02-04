@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorBottom">#0D6AD0</color>
+    <color name="colorBackground">#0047CC</color>
+    <color name="colorChip">@color/chip_selector</color>
+</resources>
